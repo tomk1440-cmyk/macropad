@@ -15,6 +15,17 @@
 This picture shows how the pcb looks in 3D view in KiCad
 PCB itself was made in kicad
 
+### **Case**
+-Case is divided into 2 parts top and bottom
+
+top part:
+
+<img width="759" height="677" alt="{98781B1B-2F52-49A6-B72C-11F7C4AAD177}" src="https://github.com/user-attachments/assets/b85b7d21-f819-4716-adf1-483ced8ba866" />
+
+bottom part:
+
+<img width="1112" height="729" alt="{C7C599A6-9A31-49E5-A65D-E81E25A110EC}" src="https://github.com/user-attachments/assets/2a43e7dd-d7aa-47cf-bae3-6711a8e1b6af" />
+
 **Firmware:**
 
 This project uses QMK firmware.
