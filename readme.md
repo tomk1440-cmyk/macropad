@@ -7,7 +7,9 @@
 - Seed Xiao RP2048
 - USB C Support
 - Glue-On Case
-###The PCB
+  
+### The PCB
+
 <img width="622" height="852" alt="{2A0F820A-1445-4F22-A167-4C427DE5F71F}" src="https://github.com/user-attachments/assets/e03f293a-6b4e-42bd-8fb3-25b600dec7f7" />
 
 This picture shows how the pcb looks in 3D view in KiCad
