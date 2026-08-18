@@ -1,4 +1,20 @@
 ### **Pacropad**
+<img width="592" height="834" alt="image" src="https://github.com/user-attachments/assets/12800fa8-9b21-4c93-aecd-233c86ead223" />
+### Features:
+- 9 Cherry MX Keys
+- 1 EC11 Rotary Encoder
+- Seed Xiao RP2048
+- USB C Support
+- Glue-On Case
+###The PCB
+<img width="622" height="852" alt="{2A0F820A-1445-4F22-A167-4C427DE5F71F}" src="https://github.com/user-attachments/assets/e03f293a-6b4e-42bd-8fb3-25b600dec7f7" />
+Picture shows how the pcb looks in 3D view in KiCad
+PCB itself was made in kicad
+###Firmware:
+This project uses QMK firmware.
+###BOM:
+Bill Of Materials (BOM) is availible in /bom/bom.zip
+
 ### Open-Source macropad for apps and games
 as a total noob, i think i did it fairly well.
 This repo and project was made by a 14 year old student from Czech Republic
