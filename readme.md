@@ -50,3 +50,4 @@ youtube: @CZGlixie
 Thank you for checking out my repo
 ### **This project and repo is open-source**
 ### **Feel free to check out my other projects!**
+### firmware should be final
