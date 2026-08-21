@@ -1,6 +1,8 @@
 #  **Pacropad**
 <img width="592" height="834" alt="image" src="https://github.com/user-attachments/assets/12800fa8-9b21-4c93-aecd-233c86ead223" />
 
+<img width="671" height="846" alt="{3224332D-4C35-49CB-87EB-4FE0827C4062}" src="https://github.com/user-attachments/assets/299952c0-8de5-45f3-af1f-ad84dbef271d" />
+
 ### Features:
 - 9 Cherry MX Keys
 - 1 EC11 Rotary Encoder
